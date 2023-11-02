@@ -1,0 +1,15 @@
+trigger = dit triggert een code of iets waardoor iet aan of uit gaat
+
+lock tables = dit veroorzaakt dat las je iets heb gedaan kan het niet meer verandert of aangepasen doen
+
+event = dit komt door iets uit te voeren waardoor een gebeurtenis gebeurt
+
+create = dit maakt nieuwe dingen aan 
+
+----------------------------------------------------------------------------------------------------------------
+
+create heb je nodig als je iets neiuws wil toevoegen 
+en hiermee kan een hacker een beetje omdat ze nieuwe dingen kunnen toevoegen wat alles kan slopen
+
+trigger heb je nodig om bepaalde dingen uit te voeren door bepaalde coden tegen te komen
+hiermee kan een hacker wat meer omdat ze dingen kunnen toevoegen waardoor de code verandert kan worden door een paar namen te veranderen

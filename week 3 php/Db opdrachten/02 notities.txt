@@ -1,0 +1,6 @@
+deel 1
+de straat de plaats nummer en de postcode en daarna de stad
+je gebruikt trsings en int om de adress op te schrijven
+
+deel 2
+dit scrijven we op omdat we voor de adress nummers niet minder dan null kunnen zijn dat het niet gesignt hoeft te worden en dat er letters en nummers in komen
